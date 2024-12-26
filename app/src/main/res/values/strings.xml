@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MessengerReplyApp</string>
+    <string name="accessibility_service_description">Automatyczne odpowiadanie na wiadomości w Messengerze.</string>
+</resources>
